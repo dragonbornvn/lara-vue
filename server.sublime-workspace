@@ -1,0 +1,825 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"btn",
+				"btn-warning \tBootstrap 4 Class"
+			],
+			[
+				"button",
+				"single_add_to_cart_button"
+			],
+			[
+				"fe",
+				"featured_pro"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"aja",
+				"ajax\tGoogle AJAX Libraries: jQuery UI"
+			],
+			[
+				"bs3pa",
+				"bs3-panel\tbs3-panel"
+			],
+			[
+				"bs3panel",
+				"bs3-panel:table\tbs3-panel-table"
+			],
+			[
+				"bs3a",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"alert",
+				"alert-warning \tBootstrap 3 Class"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"form",
+				"forms\t: HTMLCollection Document"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cent",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"bs3info",
+				"bs3-panel:info\tbs3-panel-info"
+			],
+			[
+				"bs3al",
+				"bs3-alert:info\tbs3-alert-info"
+			],
+			[
+				"or",
+				"orders"
+			],
+			[
+				"custo",
+				"customer"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"h1",
+				"h1\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bs3col",
+				"bs3-col:6\tbs3-col-6"
+			],
+			[
+				"bs3",
+				"bs3-col\tbs3-col"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"bs3bu",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"product",
+				"product_feedback"
+			],
+			[
+				"Contr",
+				"Controllers"
+			],
+			[
+				"bs3fo",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"Admin",
+				"AdminController"
+			],
+			[
+				"prod",
+				"product_related"
+			],
+			[
+				"cates",
+				"cates_full"
+			],
+			[
+				"bs3se",
+				"bs3-select\tbs3-select"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"col-",
+				"col-12 \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col \tBootstrap 4 Class"
+			],
+			[
+				"bs3it",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"bs3in",
+				"bs3-input:number\tbs3-input-number"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"bs3inputt",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"bs3co",
+				"bs3-col:6\tbs3-col-6"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"bs3table",
+				"bs3-panel:table\tbs3-panel-table"
+			],
+			[
+				"Categ",
+				"category"
+			],
+			[
+				"bs3tabl",
+				"bs3-table:bordered\tbs3-table-bordered"
+			],
+			[
+				"Contro",
+				"Controller"
+			],
+			[
+				"funtion",
+				"create_function"
+			],
+			[
+				"route",
+				"Route"
+			],
+			[
+				"my",
+				"mysqli_fetch"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"bs3f",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"total",
+				"total_price"
+			],
+			[
+				"bs3t",
+				"bs3-table:condensed\tbs3-table-condensed"
+			],
+			[
+				"bs3ta",
+				"bs3-panel:table\tbs3-panel-table"
+			],
+			[
+				"con",
+				"confirm_order.php"
+			],
+			[
+				"onbu",
+				"onsubmit\tAttr"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"ip",
+				"index.php"
+			],
+			[
+				"bs3nav",
+				"bs3-navbar\tbs3-navbar"
+			],
+			[
+				"random",
+				"random_int"
+			],
+			[
+				"chec",
+				"check_add_account"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"bs3b",
+				"bs3-button:danger\tbs3-button-danger"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"input",
+				"inputn\tinput - number"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"data",
+				"database_name"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"bs3form",
+				"bs3-form:inline\tbs3-form-inline"
+			],
+			[
+				"view",
+				"view_sv"
+			],
+			[
+				"LAS",
+				"LAST_SV"
+			],
+			[
+				"PRIN",
+				"print_r"
+			],
+			[
+				"ava",
+				"AVA_LINK"
+			],
+			[
+				"las",
+				"LAST_QR"
+			],
+			[
+				"mysql_fetc",
+				"mysql_fetch_assoc"
+			],
+			[
+				"sql",
+				"sql_select"
+			],
+			[
+				"legend",
+				"legend\tTag"
+			],
+			[
+				"lop",
+				"LOP_HOC"
+			],
+			[
+				"ma",
+				"MA_LOP"
+			],
+			[
+				"ten",
+				"TEN_LOP"
+			],
+			[
+				"m",
+				"MA_LOP"
+			],
+			[
+				"sin",
+				"SINH_VIEN"
+			],
+			[
+				"LOP",
+				"LOP_HOC"
+			],
+			[
+				"lo",
+				"LOP_HOC"
+			],
+			[
+				"h",
+				"HO_TEN_SV"
+			],
+			[
+				"ma_",
+				"MA_LOP"
+			],
+			[
+				"bs3tab",
+				"bs3-table:hover\tbs3-table-hover"
+			],
+			[
+				"CA",
+				"category_id"
+			],
+			[
+				"cat",
+				"CATEGORYDEMO"
+			],
+			[
+				"liststy",
+				"list-style-type\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"img",
+				"images/"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"bs3for",
+				"bs3-form\tbs3-form"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"bs3btn",
+				"bs3-button:danger\tbs3-button-danger"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"nav1",
+				"nav1_button"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"id",
+				"category_id"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"transition-",
+				"transition-duration\tproperty"
+			],
+			[
+				"onmouseo",
+				"onmouseout\t: EventHandler Window"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"tes",
+				"test.php"
+			],
+			[
+				"footer",
+				"footer\t<footer>"
+			],
+			[
+				"anh",
+				"anhb4.png\tw:269 h:192"
+			],
+			[
+				"bs3thum",
+				"bs3-thumbnail\tbs3-thumbnail"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"tr",
+				"tr\t<tr>"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"mang",
+				"mang_2"
+			],
+			[
+				"bs3c",
+				"bs3-cdn\tbs3-cdn"
+			],
+			[
+				"di",
+				"div\t<div>"
+			],
+			[
+				"animation",
+				"animation-duration\tproperty"
+			],
+			[
+				"style",
+				"list-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"Package Control: col",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/htdocs/project_oriania/.env",
+		"/F/xampp/htdocs/project_oriania/app/Helpers/helpers.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/category/add.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/cart.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/search_product.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/categoryshow.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/product_view.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Customer/CartController.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/ProductController.php",
+		"/F/xampp/htdocs/demo/practice athome/javascript/test.html",
+		"/F/xampp/htdocs/demo/practice athome/javascript/test.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Customer/CustomerController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/product/add.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/home.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/main/admin.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/main/home.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/viewinvoice.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/vieworder.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/order/vieworder.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/order/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/Orders.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/OrderController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/emails/orderconfirm.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/HomeController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/welcome.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/cust_order_list.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/vendor/pagination/bootstrap-4.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/vendor/pagination/bootstrap-4-backup.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/customer/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/product/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/product/edit.blade.php",
+		"/C/Users/MSI GE62 VR/Downloads/Compressed/Fly-To-Cart-Effect-jQuery-Flyto/index.html",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Customer/CategoryController.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Customer/ProductController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/category/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/category/edit.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Helpers/Cart.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/banner/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/Categorycontroller.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/product.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/BannerController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/banner/edit.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/Admincontroller.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/banner/add.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/banner.php",
+		"/F/xampp/htdocs/project_oriania/routes/api.php",
+		"/F/Work/Admin template Web/concept-master/pages/listgroup.html",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/register.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/product/pro_feedback.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/login.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/emails/reset_pass_admin.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/edit_info.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/admin/edit_info.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/forgot_pass_link.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/forgot_pass.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/Usercontroller.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/emails/reset_pass_customer.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/forgot_pass.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/edit_info.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/change_pass.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/change-pass.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/CustomerController.php",
+		"/F/Test/bk aptech/js/demoform.html",
+		"/F/xampp/htdocs/project_oriania/app/Models/feedback.php",
+		"/F/xampp/htdocs/project_oriania/public/style.css",
+		"/F/xampp/htdocs/project_oriania/public/css/style.css",
+		"/F/xampp/htdocs/project_oriania/public/css/slicknav.css",
+		"/F/xampp/htdocs/project_oriania/public/css/mystyle.css",
+		"/F/xampp/htdocs/project_oriania/public/css/main.css",
+		"/F/Test/bk aptech/js/js3.html",
+		"/F/Test/bk aptech/js/js2.html",
+		"/F/Test/bk aptech/js/js.html",
+		"/F/xampp/htdocs/project_oriania/public/web.config",
+		"/C/Users/MSI GE62 VR/Downloads/login.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/login_backup.blade.php",
+		"/F/xampp/htdocs/project_oriania/public/css/admin/styles.css",
+		"/F/Work/Template Web/orianna-baobinh.net/orianna/checkout.html",
+		"/F/xampp/htdocs/project_oriania/routes/web.php",
+		"/F/Work/Template Web/orianna-baobinh.net/orianna/shop.html",
+		"/F/Work/Test/1/Welcome to Oriania.html",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/order_cancel.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/order_delivered.blade.php",
+		"/F/xampp/htdocs/project_oriania2/.env",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/order_success.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/checkout.blade.php",
+		"/F/xampp/htdocs/project_oriania/config/app.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/order_detail.php",
+		"/F/xampp/htdocs/project_oriania/config/dompdf.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/Category.php",
+		"/F/Work/Template Web/orianna-baobinh.net/orianna/index.html",
+		"/F/xampp/htdocs/project_oriania/composer.json",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Admin/MainController.php",
+		"/F/xampp/htdocs/project_oriania/app/User.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Middleware/customer_auth.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Test/Testcontroller.php",
+		"/F/Work/Template Web/orianna-baobinh.net/orianna/product.html",
+		"/F/Work/Template Web/orianna-baobinh.net/orianna/shop2.html",
+		"/F/xampp/htdocs/project_oriania/app/Providers/AppServiceProvider.php",
+		"/F/xampp/htdocs/project_oriania/public/pages/form-elements.html",
+		"/F/xampp/htdocs/project_oriania/public/index.html",
+		"/F/xampp/htdocs/project_oriania/public/pages/login.html",
+		"/F/xampp/htdocs/blog/.env",
+		"/F/xampp/htdocs/blog/routes/web.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/auth/login_customer.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/forgot_pass_link.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/admin/index.blade.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/customer/register.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Middleware/Authenticate.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Kernel.php",
+		"/F/xampp/htdocs/project_oriania/.env.example",
+		"/F/xampp/htdocs/project_oriania/app/Http/Middleware/VerifyCsrfToken.php",
+		"/F/xampp/htdocs/project_oriania/app/Http/Controllers/Auth/LoginController.php",
+		"/F/xampp/htdocs/project_oriania/resources/views/vendor/pagination/default.blade.php",
+		"/F/xampp/htdocs/project_oriania/app/Models/Users.php",
+		"/F/xampp/htdocs/blog/resources/views/auth/login.blade.php",
+		"/F/xampp/htdocs/blog/app/Models/Customer.php",
+		"/F/xampp/htdocs/blog/resources/views/main/admin.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/auth/change-pass.blade.php",
+		"/F/xampp/htdocs/blog/app/Providers/AppServiceProvider.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/Admin/Usercontroller.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/Admin/CustomerController.php",
+		"/F/xampp/htdocs/blog/app/User.php",
+		"/F/xampp/htdocs/blog/resources/views/admin/product/add.blade.php",
+		"/F/xampp/htdocs/blog/app/Models/product.php",
+		"/F/xampp/htdocs/blog/resources/views/admin/customer/index.blade.php",
+		"/F/xampp/htdocs/blog/resources/views/auth/register.blade.php",
+		"/F/xampp/htdocs/blog/app/Http/Controllers/Admin/ProductController.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

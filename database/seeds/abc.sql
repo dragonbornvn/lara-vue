@@ -1,0 +1,1 @@
+INSERT INTO `categories` (`id`, `name`, `description`, `created_at`, `updated_at`) VALUES (NULL, 'Category 1', 'Lorem ?', 2019-04-16 00:00:00.000000, 2019-04-17 00:00:00.000000);
